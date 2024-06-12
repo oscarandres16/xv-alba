@@ -377,7 +377,7 @@
         = COUNTDOWN CLOCK
     -------------------------------------------*/
   if ($("#clock").length) {
-    $("#clock").countdown("2024/06/26", function (event) {
+    $("#clock").countdown("2024/06/29", function (event) {
       var $this = $(this).html(
         event.strftime(
           "" +
