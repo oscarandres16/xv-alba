@@ -103,6 +103,7 @@
         dots: true,
         fade: true,
         cssEase: "linear",
+        autoplay: true,
       });
     }
   }
